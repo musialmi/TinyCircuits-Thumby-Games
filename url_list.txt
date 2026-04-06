@@ -2,7 +2,6 @@ NAME=HIT and BLOW
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/HIT and BLOW/HIT and BLOW.txt
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/HIT and BLOW/arcade_title_video.webm
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/HIT and BLOW/arcade_description.txt
-https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/HIT and BLOW/HIT and BLOW.mp4
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/HIT and BLOW/HIT and BLOW.py
 
 NAME=Thumbs Run
