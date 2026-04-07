@@ -8,6 +8,11 @@ https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/Bowling Days/arcade_description.txt
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/Bowling Days/Bowling Days.py
 
+NAME=asteroids
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/asteroids/arcade_title_video.webm
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/asteroids/arcade_description.txt
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/asteroids/asteroids.py
+
 NAME=Crawler
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/Crawler/arcade_title_image.png
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/Crawler/Crawler.py
